@@ -23,3 +23,11 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+<p align="center">
+  <a href="https://github.com/michaeljesenko">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaeljesenko&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/michaeljesenko?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljesenko&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
+</p>
