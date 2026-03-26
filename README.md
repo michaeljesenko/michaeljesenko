@@ -7,7 +7,7 @@
 ### 👨‍💻 Über mich:
 - 🤖 Aktuell fokussiert auf: **KI-gestützte Automatisierungen** im Bereich Kundensupport.
 - 🚴‍♂️ Wenn ich nicht code: **findest du mich auf meinem Gravel Bike oder beim Triathlon-Training!** 🏊‍♂️🚴‍♂️🏃‍♂️
-- ✉️ So erreichst du mich: Schreibe mir gerne eine E-Mail an **[Michael.jesenko@am-quality.com](mailto:Michael.jesenko@am-quality.com)**
+- ✉️ So erreichst du mich: Schreibe mir gerne eine E-Mail an **[michael.jesenko@am-quality.com](mailto:michael.jesenko@am-quality.com)**
 
 ### 🛠️ Mein Tech-Stack & Tools:
 
