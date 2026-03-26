@@ -23,10 +23,3 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-### 📊 Meine GitHub Statistiken
-<br>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaeljesenko&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljesenko&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
